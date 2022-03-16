@@ -1,2 +1,0 @@
-# ExSampleMed
-Exercicio da Samplemed
